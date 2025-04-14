@@ -2,7 +2,6 @@
 
 Computer Science Student @ Farmingdale State College  
 Incoming **Gridtern** @ National Grid  
-Fun fact: I can play the guitar!
 
 ---
 
