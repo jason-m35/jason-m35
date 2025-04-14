@@ -25,10 +25,10 @@ Projects
 ---
 
 Involved In
-- 🧑‍💻 Google Developers Student Club (GDSC)  
-- 💡 Coding Society 
-- 🤝 ACM Computer Tech Club  
-- 🔧 Society of Hispanic Professional Engineers
+- Google Developers Student Club (GDSC)  
+- Coding Society 
+- ACM Computer Tech Club  
+- Society of Hispanic Professional Engineers
 
 ---
 
