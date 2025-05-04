@@ -19,9 +19,6 @@ Projects
 - [**Advertising & Sales Correlation**](https://github.com/jason-m35/Advertising-Correlation)  
   Data analysis project using Python (Pandas, Matplotlib, Seaborn) to uncover which ad strategies work best.
 
-- [**Card Game (24 Game)**](https://github.com/jason-m35/Card-Game-)  
-  JavaFX-based interactive card game implementing logic to solve the classic “make 24” challenge.
-
 ---
 
 Involved In
