@@ -36,6 +36,10 @@ Responsive food delivery web app built with React and Vite. Uses Context API for
 ### [Advertising & Sales Correlation](https://github.com/jason-m35/Advertising-Correlation)  
 Data analysis project in Python (Pandas, Seaborn, Matplotlib) exploring the effectiveness of different ad types and their impact on sales.
 
+### [FinTrack (Capstone Project)](https://github.com/WJijon223/FinTrack)  
+Collaborative personal finance tracker built in JavaFX with Azure SQL database integration.  
+Contributed to frontend UI/UX — including navigation, dark/light themes, and animated chart visualizations.
+
 ---
 
 ## Programs & Learning
