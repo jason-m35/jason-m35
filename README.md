@@ -1,7 +1,7 @@
 # Hi there, I'm Jason Martinez Maldonado
 
 Computer Science Student @ SUNY Farmingdale  
-Incoming **Gridtern Intern** @ National Grid – Summer 2025  
+**Gridtern Intern** @ National Grid – Summer 2025  
 Aspiring Software Engineer | Data Analyst 
 
 ---
