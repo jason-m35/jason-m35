@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Jason Martinez Maldonado
+# Hi, I'm Jason Martinez Maldonado
 
-🎓 I'm a Computer Science student at Farmingdale State College graduating in **December 2026**, with interests in **software engineering, data engineering, analytics, and AI/ML**.
+🎓 I'm a Computer Science student at Farmingdale State College graduating in **December 2026** with interests in **software engineering, data engineering, analytics, and AI/ML**.
 
 💼 I've completed internships at **Elsevier** and **National Grid**, where I've worked on production data pipelines, automation, cloud technologies, SQL, analytics, and business intelligence solutions.
 
@@ -72,31 +72,6 @@ Data analysis project exploring relationships between advertising channels and s
 - Performed analysis using Python, Pandas, and statistical techniques
 - Built visualizations with Matplotlib and Seaborn
 - Compared advertising methods to identify relationships with sales performance
-
----
-
-# 💼 Experience
-
-### Elsevier — Business Intelligence Intern
-**Summer 2026**
-
-Built automated Python/SQL data workflows using **AWS S3 and Snowflake**, including a billing pipeline processing source files representing approximately **$2M in annual revenue**.
-
-### National Grid — Analyst Intern
-**Summer 2025**
-
-Developed Python and SQL data pipelines and migrated **30,000+ historical records** into Power BI, improving automation and reporting performance.
-
----
-
-# 🎓 Education & Involvement
-
-**B.S. Computer Science — Farmingdale State College**  
-Expected December 2026 | GPA: 3.5 | Dean's List
-
-- Google Developer Student Club — Co-Secretary
-- Society of Hispanic Professional Engineers
-- ColorStack
 
 ---
 
